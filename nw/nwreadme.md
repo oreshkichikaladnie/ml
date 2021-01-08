@@ -7,5 +7,12 @@
 ------CGTTGGCAAGA-C---CGT-TGUTTAGTCGT-UUATTU-GAAAAATATGGUAGTTTA 
 
 GCUACACCCTGCCATGAUCUUGGGTATCU-T-G-CGTAUU---UCG----A-AT--U-UCUCA
+
+TUGACUA  UCGGC AT
+
+U-GACUA-
+
+UCGGC-AT
+
 ### Выводы
-Алгоритм может использоваться не только в биоинформатике, но и например в классификации
+Алгоритм правильно работает, и в зависимости от разных rewarding systems способен делать разные преобразования, в этом случае он показывает похожесть с наименьшим количеством перестановок
