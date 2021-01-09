@@ -20,13 +20,16 @@ AGCACTUUGCGUCUTCAAGC
 CTTUGCATUGCTUUCGAAAU
 
 --AGCACTUUGCGUCUTC-AAGC 
+
 TTUGCA-T-UGCTU-U-CGAAAU
 
 3)
 aaaaaaaaaa
+
 bbbbbbbbbb
 
 aaaaaaaaa
+
 bbbbbbbbb
 
 4)
@@ -46,5 +49,5 @@ bab
 aba 
 ab-
 
-### Выводы
+### Результат
 Алгоритм правильно работает, и выводит наименьшее выравнивание
